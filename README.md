@@ -1,5 +1,5 @@
 # IN-VEHICLE-COUPON-RECOMENDATION
-Provide insights as recommendation to enhance coupon acceptance and generate predictive model using supervised learning method
+Provide insights with tableau dashboard as recommendation to enhance coupon acceptance and generate predictive model using supervised learning method
 ## **In Vehicle Coupon Recommendation**
 
 We are a team of 7 who worked on Final Project of Rakamin Data Science Bootcamp to build a classification model for our dataset from Kaggle (https://www.kaggle.com/datasets/mathurinache/invehicle-coupon-recommendation). Our main goal is to build a model to enhance coupon acceptance rate by using the classification model we generated and as well as provide insights as recommendation to increase coupon acceptance rate. Our work was divided to 4 stages that summarized as below:
